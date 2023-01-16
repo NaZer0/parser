@@ -1,0 +1,12 @@
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.csproj.AssemblyReference.cache
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.AssemblyInfoInputs.cache
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.AssemblyInfo.cs
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.csproj.CoreCompileInputs.cache
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\bin\Debug\net6.0\Parser.deps.json
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\bin\Debug\net6.0\Parser.dll
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\bin\Debug\net6.0\Parser.pdb
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.dll
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\refint\Parser.dll
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\Parser.pdb
+C:\Users\nazer\Desktop\project\parser\Parser\Parser\obj\Debug\net6.0\ref\Parser.dll
